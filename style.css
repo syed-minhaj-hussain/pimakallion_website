@@ -31,6 +31,11 @@ h2 {
   border-bottom-left-radius: 15%;
 }
 
+.is-active {
+  background-color: #50C878 !important;
+  color: #fff !important;
+}
+
 .shaded {
   color: rgb(136, 130, 130);
 }
